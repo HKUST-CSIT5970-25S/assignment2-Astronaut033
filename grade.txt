@@ -1,0 +1,5 @@
+====BigramFrePairs==== Mark: 0/2 [line 1: frequency 27.0 != 28.0]
+====BigramFreStripes==== Mark: 0/2 [line 1: frequency 27.0 != 28.0]
+====CorPairs==== Mark: 0/3 [line 19: words <['Alexander', 'Abraham', '1.0']> != <['Alexander', 'Bartholomew', '1.0']>]
+====CorStrip==== Mark: 3/3
+====Total Mark: 3/10
